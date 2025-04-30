@@ -347,7 +347,13 @@ Assista ao vídeo do protótipo para ver como o sistema funciona e entender como
 - **HU 2 (Visualização de Dashboard)**: 03:38-04:16; 04:47-05:50; 06:18-06:48  
 - **HU 4 (Abertura de Ordem de Serviço (O.S.))**: 04:16-04:46; 06:48-07:48  
 - **HU 5 (Fechamento de Ordem de Serviço com Relatório)**: 07:48-08:35  
-- **HU 6 (Controle de Contratos)**: 05:50-06:17  
+- **HU 6 (Controle de Contratos)**: 05:50-06:17
+
+**Protótipo do Site**
+- Login (Autenticação e Definição de Perfil):  00:00-00:28
+- Dashboard Eng Clínico (Visualização de Dashboard): 00:28-01:23
+- Abrir O.S (Abertura de Ordem de Serviço (O.S.)):  01:24-01:55
+- Fechar O.S (Fechamento de Ordem de Serviço com Relatório): 01:55-03:08
 
 ---
 
